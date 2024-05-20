@@ -7,7 +7,7 @@ Para adicionar emoji no site do [readme.so](https://readme.so/pt/editor)  atalho
     -Pressione a tecla Windows junto com a tecla ponto. 
 
 
-
+Nova linha
 
 
 ## Teste realizado na web 
